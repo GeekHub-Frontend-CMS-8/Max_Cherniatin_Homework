@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+}
+
+
+input{
+clear:both;
+    text-align:right;
+    line-height:25px;
+}
+
+label{
+float:left;
+    padding-right:10px;
+}
+
+
